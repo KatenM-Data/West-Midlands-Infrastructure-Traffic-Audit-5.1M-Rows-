@@ -85,6 +85,7 @@ The network hits its absolute limit at **17:00 (5 PM)** and **08:00 (8 AM)**. By
 
 ### 3. Regional Load & Active Travel
 *   **Regional Traffic:** Warwickshire, Staffordshire, and Birmingham handle the highest overall traffic volumes, driving regional budget allocations.
+![Regional Leaderboard](simple_regional_load.png)
 *   **Sandwell Cycling Deep-Dive:** I isolated the top routes for pedal cycles in my home borough of Sandwell (such as the A457). This provides data-validated evidence to justify local "Green Infrastructure" and cycle-lane funding.
 ![Sandwell Cycling Audit](sandwell_active_travel.png)
 
