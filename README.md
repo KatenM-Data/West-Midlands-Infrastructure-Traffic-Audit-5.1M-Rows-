@@ -69,3 +69,10 @@ LIMIT 15;
 *   **AI Prompting:** Used AI tools to help write SQL syntax faster, troubleshoot error codes, and speed up the coding process.
 *   **Data Cleaning (ETL):** Troubleshooted import errors and fixed "dirty" data (like text strings appearing in number columns) so the database would load correctly.
 *   **Engineering Context:** Used my Civil Engineering background to relate heavy traffic numbers (HGV volume) to physical road wear-and-tear.
+
+---
+
+### 🎓 Project Credentials
+*   **Developer:** Katen Morker
+*   **Credentials:** BEng (Hons) Civil Engineering | Certified Data Analyst
+*   **Source Data:** UK Department for Transport (DfT) Count Point Datasets
