@@ -1,6 +1,6 @@
 # 🛣️ West Midlands Regional Infrastructure & Traffic Audit (PostgreSQL)
 
-![Complex Risk Ranker](complex_risk_ranker.png)
+![Complex Risk Ranker](busiest_roads.png)
 *(Above: Utilising SQL querying to analyse road utilisation across West Midlands local authorities within a 5.1-million-row database.)*
 
 ## 🎯 The Objective
