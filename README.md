@@ -58,7 +58,7 @@ LIMIT 15;
 ```
 ## 🏆 Skills Demonstrated
 *   **Database Management:** Built a local PostgreSQL database from scratch to handle a dataset of **5.1 Million rows** that was too large for Excel.
-*   **SQL Logic:** Used intermediate/advanced SQL (CTEs, Window Functions, and Joins) to filter, group, and rank large amounts of traffic data.
+*   **SQL Logic:** Used standard SQL (Joins, GROUP BY, and ORDER BY) to filter, aggregate, and rank traffic records
 *   **AI Prompting:** Used AI tools to help write SQL syntax faster, troubleshoot error codes, and speed up the coding process.
 *   **Data Cleaning (ETL):** Troubleshooted import errors and fixed "dirty" data (like text strings appearing in number columns) so the database would load correctly.
 *   **Engineering Context:** Used my Civil Engineering background to relate heavy traffic numbers (HGV volume) to physical road wear-and-tear.
